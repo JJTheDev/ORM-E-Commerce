@@ -43,6 +43,7 @@ Once the server is running, you can use API testing tools like Insomnia Core to 
 
 ## Technologies Used
 
+
 - Node.js
 - Express.js
 - MySQL2
